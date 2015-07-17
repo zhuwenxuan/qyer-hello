@@ -1,32 +1,8 @@
 {
-  "name": "blue-leaf",
-  "version": "1.2.3",
-  "description": "Physics-like animations for pretty particles",
+  "name": "test-bower",
+  "version": "0.0.1",
+  "description": "test bower",
   "main": [
-    "js/motion.js",
-    "sass/motion.scss"
-  ],
-  "dependencies": {
-    "get-size": "~1.2.2",
-    "eventEmitter": "~4.2.11"
-  },
-  "devDependencies": {
-    "qunit": "~1.16.0"
-  },
-  "keywords": [
-    "motion",
-    "physics",
-    "particles"
-  ],
-  "authors": [
-    "Betty Beta <bbeta@example.com>"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "print.js"
   ]
 }
